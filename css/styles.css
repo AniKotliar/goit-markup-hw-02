@@ -121,6 +121,10 @@ body {
     letter-spacing: 0.02em;
 }
 
+.section-our-team {
+
+    background-color: #F4F4FD
+}
 
 .section-our-team-title {
     font-size: 36px;
@@ -129,6 +133,10 @@ body {
     text-align: center;
     color: #2e2f42;
     text-transform: capitalize
+}
+
+.team-list {
+    background-color: #FFFFFF
 }
 
 .team-name {
